@@ -1,0 +1,8 @@
+gonna use fuji to base testnet usdc
+first we need to transfer tokens from user to crosschain contract 
+
+fuji address 0x91c477e9f93349e2230Ee90E3bEC6782241F1Ebf
+base address 0x5963e4acBf39139A6C60f9899458dECd9ee26ed9
+
+gelato 
+keeper
